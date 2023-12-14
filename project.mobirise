@@ -44,13 +44,23 @@
       }
     ],
     "uniqCompNum": 0,
-    "versionPublish": "5.9.6"
+    "versionPublish": "5.9.6",
+    "imageResize": true,
+    "favicon": "@PROJECT_PATH@/assets/images/logo-128x128.png",
+    "mbrsiteDomain": "ypd8v5ppcv",
+    "usedWebp": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "LuryMc.pl",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
